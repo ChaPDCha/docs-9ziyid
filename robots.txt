@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-ejjr57.hartawin.site/sitemap.xml
